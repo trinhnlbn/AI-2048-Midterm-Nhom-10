@@ -164,7 +164,7 @@ class _Timeout(Exception):
 # Agent
 # ---------------------------------------------------------------------------
 class Agent:
-    name = "hduc"
+    name = "Nhom 10"
 
     # --- tham số có thể chỉnh -------------------------------------------
     MAX_DEPTH = 12
